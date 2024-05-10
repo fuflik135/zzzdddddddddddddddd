@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    text-align: center;
+    color: snow;
+}
+header{
+    background-image: linear-gradient(to bottom right , #15FF49,#024812 );
+
+}
+a {
+    text-decoration: none;
+    color: snow;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+footer{
+    background-image: linear-gradient(to bottom right , #15FF49,#024812 );
+
+}
+aside{
+    position: fixed;
+    background-image: linear-gradient(to right,#FFF503,#FF0000);
+    right: 10px;
+    border-radius: 13px;
+}
+.w1{
+    color: red;
+}
+.w2{
+    color: blue;
+}
+.w3{
+    color: green;
+}
+main{
+    background-image: linear-gradient(to right bottom,#98FCEA,#1D01C8 );
+
+}
+article img{
+    border-radius: 19px;
+    margin-left: 25px;
+}
+article p{
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+.r1{
+    margin-top: 25px;
+    margin-left: 25px;
+
+}
+article{
+    
+    width: 350px;
+    height: 400px;
+}
